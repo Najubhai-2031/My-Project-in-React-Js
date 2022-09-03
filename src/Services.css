@@ -1,0 +1,82 @@
+.services {
+    text-align: center;
+}
+
+.abc{
+    margin-top: 100px;
+}
+
+.b-border {
+    border-bottom: 2px solid;
+    width: 50px;
+    color: red;
+    height: 2px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+p{
+    color: #95a0ab !important;
+}
+
+.b-text{
+    display: flex;
+    justify-content: center;
+    font-size: 14.4px;
+    line-height: 24px;
+}
+
+.main {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.images {
+    margin-top: 100px;
+    height: 80px;
+    width: 80px; 
+}
+
+.img123{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.head h3{
+    padding-top: 1rem !important;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.text p{
+    color: #95a0ab !important;
+    padding-top: 1rem !important;
+    font-size: 14.4px;
+    line-height: 24px;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: center;
+    width: 310px;
+}

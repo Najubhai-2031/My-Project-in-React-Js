@@ -1,0 +1,72 @@
+.bg-home {
+    background: url('BackGroundHome.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 850px;
+    width: 100vw;
+    opacity: 1;
+    margin-top: -60px;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.bg-back-color {
+    background:  linear-gradient(to right, #512da8, #711e72);
+    position: absolute;
+    height: 790px;
+    width: 100vw;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    opacity: 0.8;
+}
+
+.text1 {
+    color: white;
+    text-align: center;
+    padding-top: 250px;
+    justify-content: center !important;
+    font-size: 46px;
+    line-height: 64px;
+    font-family: "Poppins", sans-serif;
+    font-size: calc(1.375rem + 1.5vw);
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 3px;
+}
+
+.text2 {
+    color: white;
+    font-size: 15px;
+    max-width: 600px;
+    margin: 0 auto;
+    font-weight: bold;
+    text-align: center !important;
+}
+
+.pattern{
+    background:  linear-gradient(to right, #512da8, #711e72);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: auto;
+    width: 100%;
+    opacity: 1;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-top: -500px;
+
+}
+
+.pattern img{
+    max-width: 100%;
+    vertical-align: middle;
+}

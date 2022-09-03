@@ -1,0 +1,28 @@
+.Main{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.Mainone{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-top: 40px;
+}
+.abc{
+    margin-top: 100px;
+}
+.person{
+    text-align: center;
+}
+
+.person img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 15px;
+    padding: 10px 10px;
+}
+
+.person:hover{
+    margin-top: -15px;
+    transition: 0.3s ease;
+}
